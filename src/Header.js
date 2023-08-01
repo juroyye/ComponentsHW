@@ -1,7 +1,9 @@
+import { StyledHeader } from "./Header.styled"
+
 export default function Header() {
     return (
-        <header>
+        <StyledHeader>
        <h1>Hubble</h1>
-        </header>
+        </StyledHeader>
     )
 }
