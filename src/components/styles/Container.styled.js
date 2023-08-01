@@ -1,4 +1,4 @@
-import { Styled } from "styled-components/dist/constructors/constructWithOptions";
+import  styled  from "styled-components.browser.esm.js";
 
 export const Container = styled.div`
 width:1000px;

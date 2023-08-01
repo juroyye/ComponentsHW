@@ -1,7 +1,6 @@
-import { ThemeProvider
- } from "styled-components/dist/base";
-import Header from "./Header";
-import { Container } from "./Container.styled";
+import { ThemeProvider} from './components/styles/Global';
+import Header from "./components/Header";
+import { Container } from "./components/styles/Container.styled";
 
 const theme = {
   colors: {
